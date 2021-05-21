@@ -95,9 +95,11 @@ p {
 }
 
 .lupa {
-    margin-right: px;
+    margin-right: -50px;
+    z-index: 1;
 }
 
 .mic {
     margin-left: -50px;
+    z-index: 1;
 }
