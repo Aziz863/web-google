@@ -1,0 +1,103 @@
+.div-main {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-content: center;
+    margin-bottom: 0px;
+    /*background-color: rgb(224, 143, 143);*/
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    /*background-color: rgb(118, 118, 223);*/
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.footer {
+    background-color: #f2f2f2;
+    width: 100%;
+    color: grey;
+}
+
+.footer2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.line {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 10px;
+}
+
+textarea {
+    border-radius: 30px;
+    margin: 20px 0px;
+}
+
+.logo-google {
+    width: 60%;
+    align-self: center;
+}
+
+.grey-box {
+    background-color: #f3f3f3;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.logo-user,
+.logo-app {
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.logo-user img {
+    border-radius: 50%;
+}
+
+p {
+    margin: 15px;
+}
+
+.text-body {
+    align-self: center;
+}
+
+.footer-hoja {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-hoja img {
+    height: 80%;
+    margin-right: 5px;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+}
+
+.logo-textarea {
+    height: 40%;
+    width: auto;
+    margin: 30px auto;
+}
+
+.lupa {
+    margin-right: px;
+}
+
+.mic {
+    margin-left: -50px;
+}
